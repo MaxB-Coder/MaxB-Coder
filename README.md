@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 <br />
 
-![Alt text](line.jpeg)
+![Alt text](lijne.png)
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
