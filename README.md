@@ -2,7 +2,9 @@
 <br />
 <h3 align="center">A passionate Fullstack Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 <br />
+
 ![Alt text](line.jpeg)
+
 - 🔭 I’m currently working on **my personal portfolio website**
 
 - 🌱 I’m currently learning **The MERN stack and Java**
