@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  ![Header](./Assets/github-header-image.png)
-</div>
+![Header](./Assets/github-header-image.png)
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
