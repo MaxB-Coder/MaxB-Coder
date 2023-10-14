@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVqeXg3OHU1dmdoNTkxMmo3cDZzZWEyNjJycHR3a3VlNnEzd3ltdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+  ![Header](./Assets/github-header-image.png)
 </div>
-<h1 align="center">Hi 👋, I'm Max!</h1>
-<h3 align="center">A passionate full stack developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
