@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 <br />
 
-![Line break](<./Assets/banner-line.png>)
+![Alt text](goldenLine.webp)
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
