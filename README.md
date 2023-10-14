@@ -1,4 +1,6 @@
 ![Header](./Assets/github-header-image.png)
+<br>
+<h3 align="center">A passionate Fullstack Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
