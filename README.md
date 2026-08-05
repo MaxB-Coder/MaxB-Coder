@@ -9,19 +9,25 @@
 
 -----
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I’m a passionate **fullstack developer from Scotland**
+### Hi, I'm Max
 
-- 🔭 I’m currently working on **my personal portfolio website**
+Full-stack engineer at JPMorgan Chase, working on distributed systems for
+payment and identity validation. Previously at Lloyds Banking Group, where I
+helped modernise a legacy business banking platform into Spring Boot
+microservices.
 
-- 🌱 I’m currently learning **The MERN stack and Java**
+Glasgow, Scotland · [LinkedIn](https://www.linkedin.com/in/maxblaschek/)
 
-- 👯 I’m looking to collaborate on **projects that make a difference**
+---
 
-- 👨‍💻 All of my projects are available at [www.github.com/MaxB-Coder](www.github.com/MaxB-Coder)
+**Working with** — Java · Spring Boot · React · TypeScript · Kafka · PostgreSQL · GCP · Docker
 
-- 📫 How to reach me **maxblaschek@protonmail.com**
+**Learning** — Python · Go
 
-- ⚡ Fun fact **I used to be a sports scientist!**
+**Interested in** — legacy modernisation, JVM internals, and why incremental
+migration usually beats a big-bang rewrite
+
+Fun fact: I used to be a sports scientist.
 
 -----
 
