@@ -2,8 +2,6 @@
 
 -----
 
-### Hi, I'm Max
-
 Full-stack engineer at JPMorgan Chase, working on distributed systems for
 payment and identity validation. Previously at Lloyds Banking Group, where I
 helped modernise a legacy business banking platform into Spring Boot
