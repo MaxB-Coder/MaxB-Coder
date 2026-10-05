@@ -17,7 +17,4 @@ Glasgow, Scotland · [LinkedIn](https://www.linkedin.com/in/maxblaschek/)
 
 **Learning** — Python · Go
 
-**Interested in** — legacy modernisation, JVM internals, and why incremental
-migration usually beats a big-bang rewrite
-
 Fun fact: I used to be a sports scientist.
